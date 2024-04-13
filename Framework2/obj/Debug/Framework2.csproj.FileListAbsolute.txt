@@ -1,0 +1,6 @@
+D:\Projeto\AA\Framework2\bin\Debug\Framework2.dll
+D:\Projeto\AA\Framework2\bin\Debug\Framework2.pdb
+D:\Projeto\AA\Framework2\obj\Debug\Framework2.csproj.AssemblyReference.cache
+D:\Projeto\AA\Framework2\obj\Debug\Framework2.csproj.CoreCompileInputs.cache
+D:\Projeto\AA\Framework2\obj\Debug\Framework2.dll
+D:\Projeto\AA\Framework2\obj\Debug\Framework2.pdb
